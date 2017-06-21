@@ -26,7 +26,10 @@ SECRET_KEY = 'yzg%bj-psjvi-q^lh^r$phl#-(3o+%c9c0n$70)&e^_%j91!jb'
 DEBUG = True
 
 # ALLOWED_HOSTS = [] # DEFAULT
-ALLOWED_HOSTS = ['127.0.0.1', 'williamwilliamson.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'williamwilliamson.pythonanywhere.com']
+
+LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = '/'
 
 
 # Application definition
