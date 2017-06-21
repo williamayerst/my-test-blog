@@ -1,0 +1,1 @@
+https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/homework_create_more_models/
